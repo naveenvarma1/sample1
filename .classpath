@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/bcpkix-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/bcprov-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/jetty-repacked-7.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/mx4j-tools-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-api-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-chrome-driver-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-edge-driver-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-firefox-driver-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-ie-driver-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-java-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-opera-driver-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-remote-driver-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-safari-driver-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-server-2.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/selenium-support-3.0.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/servlet-api-2.5-6.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/naveen/Downloads/selenium java jar files/snakeyaml-1.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
